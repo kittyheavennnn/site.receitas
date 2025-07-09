@@ -12,10 +12,14 @@ body {
 
 header {
     background-color: #ce9ac1;
+    padding: 10px 0;
     display: flex;
+    justify-content: center;
     color: rgb(250, 247, 229);
+    min-height: 60px;
 }
 
 .menu ul {
     display: flex;
+    justify-content: space-around;
 }
