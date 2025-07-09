@@ -17,3 +17,8 @@ header {
     text-align: center;
     color: white;
 }
+
+.classe.menu {
+    display: flex;
+    align-items: ;
+}
