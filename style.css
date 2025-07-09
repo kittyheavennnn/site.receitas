@@ -20,5 +20,5 @@ header {
 
 .class.menu {
     display: flex;
-    align-items: center;
+    align-content: baseline;
 }
