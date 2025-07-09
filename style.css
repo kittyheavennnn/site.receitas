@@ -18,7 +18,6 @@ header {
     color: rgb(250, 247, 229);
 }
 
-.class.menu {
+.menu {
     display: flex;
-    align-content: baseline;
 }
