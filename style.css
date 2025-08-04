@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    color: #4B0082;
+    color: #042704;
 }
 
 .menu {
@@ -22,7 +22,7 @@ h1 {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #BA55D3;
+    background-color: #084408;
     color: white;
     text-decoration: none;
     border-radius: 8px;
@@ -30,7 +30,7 @@ h1 {
 }
 
 .btn:hover {
-    background-color: #9932CC;
+    background-color: #084408;
 }
 
 .btn.back {
