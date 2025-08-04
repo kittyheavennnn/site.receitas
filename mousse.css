@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    color: #DAA520;
+    color: #B8860B;
 }
 
 .menu {
@@ -30,11 +30,11 @@ h1 {
 }
 
 .btn.back {
-    background-color: #dab65b;
+    background-color: #DAA520;
 }
 
 section {
-    background-color: #9b7a5e;
+    background-color: #dab65b;
     margin: 20px auto;
     padding: 20px;
     width: 80%;
